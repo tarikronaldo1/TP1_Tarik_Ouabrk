@@ -52,7 +52,7 @@ Ce TP contient des exercices en C++ qui permettent de découvrir les bases du la
      g++ -std=c++17 -D EXO_5 main.c++ -o programme
      ```
 
-3. Vous pouvez aussi définir plusieurs exercices si vous voulez tester plus d'un à la fois. Par exemple :
+3. Vous ne pouvez pas définir plusieurs exercices . Par exemple :
    ```bash
    g++ -std=c++17 -D EXO_1 -D EXO_2 main.c++ -o programme
 
