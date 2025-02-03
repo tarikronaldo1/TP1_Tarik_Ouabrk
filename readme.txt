@@ -1,4 +1,4 @@
-# TP1 - Jean Dupont
+# TP1 - Tarik Ouabrk
 
 ## Description
 
